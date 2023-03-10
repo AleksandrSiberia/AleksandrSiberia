@@ -21,6 +21,8 @@
 
 [WeatherForecast](https://github.com/AleksandrSiberia/WeatherForecast) - приложение прогноза погоды демонстрирующее адаптивную сложную верстку кодом на фреймворке UIKit без использования сторибордов, с возможностью автоопределения местоположения юзера и кэшированием информации в CoreData
 
+[MyHabits](https://github.com/AleksandrSiberia/MyHabits/tree/master) - простое удобное приложение для формирования новых полезных привычек
+
 [Map](https://github.com/AleksandrSiberia/Map) - небольшая работа с использованием библиотек UIKit, MapKit, CoreLocation
 
 
