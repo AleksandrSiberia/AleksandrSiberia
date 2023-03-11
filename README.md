@@ -2,17 +2,17 @@
 
 ## IOS разработчик
 
-**Языки программирования:**  Swift
+**Язык программирования:**  Swift
 
 **Операционные системы:** IOS, macOS, watchOS, tvOS
 
-**Фреймворки:**  UIKit, SwiftUI, CoreData, Dispatch (GCD), Firebase, Realm, KeychainSwift, LocalAuthentication, UserNotification, CoreGraphics, AVFoundation, SnapKit, CoreLocation, MapKit
+**Использую библиотеки:**  UIKit, SwiftUI, CoreData, Dispatch (GCD), Firebase, Realm, KeychainSwift, LocalAuthentication, UserNotification, CoreGraphics, AVFoundation, SnapKit, CoreLocation, MapKit
 
-**Инструменты тестирования:**   XCTest
+**Тестирую с помощью:**   XCTest
 
-**Методологии:**   Протокол ориентированное программирование, Функциональное программирование, ООП, MVVM, MVC, Паттерн Delegate, Фабричный Метод, Singleton, Паттерн Координатор,  Дженерики 
+**Мои методологии и приемы программирования:**   Протокол ориентированное программирование, Функциональное программирование, ООП, MVVM, MVC, Паттерн Delegate, Фабричный Метод, Singleton, Паттерн Координатор,  Дженерики 
 
-**Инструментарий:**  Git, CocoaPods, NSLayoutConstraint,  NotificationCenter, NSDateComponents, DateFormater, NSUserDefaults, URLSesseon, NSFileManager, Localizable.string, Localizable.stringsdict, Codable 
+**Инструментарий:**  Git, CocoaPods, Figma, NSLayoutConstraint,  NotificationCenter, NSDateComponents, DateFormater, NSUserDefaults, URLSesseon, NSFileManager, Localizable.string, Localizable.stringsdict, Codable 
 
 
 ## Проэкты 
