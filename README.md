@@ -63,6 +63,18 @@
 
 ## Сертификаты 
 
+![Git — система контроля версий](https://github.com/AleksandrSiberia/AleksandrSiberia/assets/103641721/a12f8c39-f93c-4fc5-ad36-bbbb0ed1e1ea)
+![Хранение данных](https://github.com/AleksandrSiberia/AleksandrSiberia/assets/103641721/f57132af-385c-4300-8f14-ac101eabd99b)
+![Промышленная разработка](https://github.com/AleksandrSiberia/AleksandrSiberia/assets/103641721/93843165-e6f4-43c2-b899-3d2f9f4d02ab)
+![Продвинутая разработка](https://github.com/AleksandrSiberia/AleksandrSiberia/assets/103641721/15826ec1-7167-4f27-becc-411ee9091773)
+![Основы Swift](https://github.com/AleksandrSiberia/AleksandrSiberia/assets/103641721/43a11298-3f0e-4bcd-b4c7-bf313c0aee4b)
+![Основы swift advanced](https://github.com/AleksandrSiberia/AleksandrSiberia/assets/103641721/0c9ac983-c91e-4bb4-8318-5998db0072a1)
+![Интерфейс приложения](https://github.com/AleksandrSiberia/AleksandrSiberia/assets/103641721/b3772b54-5d2a-4dad-8f8e-a2c485bfd77e)
+![Дипломный блок профессии iOS-разработчик](https://github.com/AleksandrSiberia/AleksandrSiberia/assets/103641721/46e56486-da15-4210-861b-370644850042)
+![Английский для программистов](https://github.com/AleksandrSiberia/AleksandrSiberia/assets/103641721/b37d3642-8bd4-43e0-b0a7-c686fdb40b17)
+![iOS-разработчик с нуля](https://github.com/AleksandrSiberia/AleksandrSiberia/assets/103641721/d95c9e43-3e73-4b57-ba83-e8b63e351279)
+
+
 [Git — система контроля версий.pdf](https://github.com/AleksandrSiberia/AleksandrSiberia/files/10940773/Git.pdf)
 
 [Продвинутая разработка.pdf](https://github.com/AleksandrSiberia/AleksandrSiberia/files/10940885/default.pdf)
