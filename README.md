@@ -15,20 +15,24 @@
 **Инструментарий:**  Git, CocoaPods, Figma, NSLayoutConstraint,  NotificationCenter, NSDateComponents, DateFormater, NSUserDefaults, URLSesseon, NSFileManager, Localizable.string, Localizable.stringsdict, Codable 
 
 
-## Проэкты 
+## Личные продакшн проекты
 
-[AppVC](https://github.com/AleksandrSiberia/AppVC) - проект демонстрирующий возможности продвинутого промышленного программирования на языке swift с использованием фреймворка UIKit без использования сторибордов и с использованием последних нововведений языка.
+[Commemoration](https://github.com/AleksandrSiberia/Commemoration.git) - уникальное приложение по своей идеи и воплошению, написано на SwiftUI
 
-[WeatherForecast](https://github.com/AleksandrSiberia/WeatherForecast) - приложение прогноза погоды демонстрирующее адаптивную сложную верстку кодом на фреймворке UIKit без использования сторибордов, с возможностью автоопределения местоположения юзера и кэшированием информации в CoreData
 
-[MyHabits](https://github.com/AleksandrSiberia/MyHabits/tree/master) - простое удобное приложение для формирования новых полезных привычек
+## Учебные проекты 
+ 
+[AppVC](https://github.com/AleksandrSiberia/AppVC) - Дипломная работа, защищена на отлично. Проект демонстрирующий возможности продвинутого промышленного программирования на языке swift с использованием фреймворка UIKit без использования сторибордов и с использованием последних нововведений языка.
 
-[Map](https://github.com/AleksandrSiberia/Map) - небольшая работа с использованием библиотек UIKit, MapKit, CoreLocation
+[WeatherForecast](https://github.com/AleksandrSiberia/WeatherForecast) - Курсовая работа. Приложение прогноза погоды демонстрирующее адаптивную сложную верстку кодом на фреймворке UIKit без использования сторибордов, с возможностью автоопределения местоположения юзера и кэшированием информации в CoreData
+
+[MyHabits](https://github.com/AleksandrSiberia/MyHabits/tree/master) - Курсовая работа. Приложение для формирования новых полезных привычек. UIKit
+
+[Map](https://github.com/AleksandrSiberia/Map) - небольшая учебная работа с использованием библиотек UIKit, MapKit, CoreLocation
 
 
 ## Образование 
 **Уровень образования - Высшее** 
-
 
 
 **2023  Образовательная онлайн-платформа  “Нетология”**
